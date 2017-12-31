@@ -1,8 +1,8 @@
 # Ms. Kurfman's ELA 8 Class Website
 
-##Calendar
-###January 2018
-[Image of Calendar Jan2018](January2018.JPG)
+## Calendar
+### January 2018
+![Image of Calendar Jan2018](January2018.JPG)
 
 ## Defining a Hero -- Expository Essay Unit
 ### Additional Heroism Resources
