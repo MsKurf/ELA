@@ -1,5 +1,9 @@
 # Ms. Kurfman's ELA 8 Class Website
 
+##Calendar
+###January 2018
+[Image of Calendar Jan2018](January2018.JPG)
+
 ## Defining a Hero -- Expository Essay Unit
 ### Additional Heroism Resources
 Feel free to quote (choose a sentence or part of a sentence from it, write it in your essay, putting it in quotes) any of the following articles, if they help support your hero definition in your essay. An in-text citation is provided for each, so that you can easily quote with TLC (Transition, lead-in: "Quote" (citation). Since it's a websource, you will not use a page number, but just the author's last name. If we were doing full citations, the last name would lead us to the entry on the works cited page, which would be on its own page after the essay.
