@@ -60,4 +60,4 @@ Make sure your book project does not contain any OBVIOUS spoilers! Subtle ones a
 9. Other extraordinary book project ideas? Get it approved! :) Some previously approved projects:
     * Original poem instead of found poem
     * Skit
-* Rap
+    * Rap
