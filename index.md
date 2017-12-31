@@ -1,1 +1,1 @@
-# Ms. Kurfman's ELA 8 Clas Website
+# Ms. Kurfman's ELA 8 Class Website
