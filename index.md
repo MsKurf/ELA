@@ -14,9 +14,13 @@ Feel free to quote (choose a sentence or part of a sentence from it, write it in
 
 ## Extraordinary Book Project (Quarterly Assignment)
 [Quarter 2 Assignment](https://docs.google.com/document/d/1VZb2BU9Y8cG22COWeGPIGhjR4rVIk957_4kkhOoNWtQ/edit?usp=sharing)
+
 #### No Spoilers! 
 Make sure your book project does not contain any OBVIOUS spoilers! Subtle ones are okay (like, quotes from the end of the book), but don’t give away the whole plot. Also, you can put spoilers in something obviously intended for the teacher only (aka, a summary on the back).
-#### GOALs: 
+
+#### Goals: 
 * To intrigue others about your book by presenting enough information in an interesting enough way that other students can determine whether or not they want to read it. :)
 * To explore your book more deeply and think about it further by creating this unique project.
+
 #### Rubric
+![Image of Extraordinary Book Project Rubric](ExtraordinaryBookProjectRubric.JPG)
