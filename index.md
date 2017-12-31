@@ -24,3 +24,40 @@ Make sure your book project does not contain any OBVIOUS spoilers! Subtle ones a
 
 #### Rubric
 ![Image of Extraordinary Book Project Rubric](ExtraordinaryBookProjectRubric.JPG)
+
+### Menu of Options
+1. Make a Book Trailer (must know technology)
+* It’s a video advertisement for the book -- acted out or illustrated.
+* Can be slideshow style, with music, or an in-motion video.
+2. Found Poetry
+* Use words from your book (phrases, single words) to craft a poem.
+* It doesn’t have to rhyme.
+* It does have to tell the story of a character or of part of the plot.
+3. Social Media
+* Create a paper or actual Snapchat or Instagram (or, etc.) for a character in your story or for multiple characters.
+* Show them interacting with one another and/or show the interests and ideas of one character.
+* Turn in Snapchat/Instagram with screenshots, or turn in the paper version.
+4. Collages
+* Digital or physical collage of important images, words, and quotes.
+* Whole book? Just one character? Either or a combination works.
+* Make sure to create a UNIQUE arrangement of quotes, words, and images.
+5. A “Mix-Tape” / Playlist
+* Create a playlist for the book as a whole or for a character.
+* What would the characters listen to? Or, what would the mood music be to score several important scenes?
+* Turn in the music along with a write up to include the quotes (or add in some original piece with quotes?).
+6. Yearbook
+* What would your character be a part of? Who would sign their yearbook?
+* For this one, create a single spread or single yearbook page.
+* Include at least one picture and several messages from other characters.
+7. Cast the Film
+* Explain who should play the main characters and why -- what kind of acting skill is required for this role?
+* If it has already been turned into a movie, what do you think of the casting? Good or bad? Why or why not?
+* Could combine visuals with writing, easiest electronically.
+8. Fan-Fiction
+* Write a story of your own that is inspired by the book.
+* This could be a sequel, a deleted scene, or a re-written scene.
+* It also could tell more of the story of a minor character.
+9. Other extraordinary book project ideas? Get it approved! :) Some previously approved projects:
+* Original poem instead of found poem
+* Skit
+* Rap
