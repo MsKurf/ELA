@@ -1,7 +1,7 @@
 # Ms. Kurfman's ELA 8 Class Website
 
 ## Calendar
-### January 2018
+![ELA Calendar](calendar.md)
 
 ## Defining a Hero -- Expository Essay Unit
 ### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
