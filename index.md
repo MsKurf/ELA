@@ -1,7 +1,7 @@
 # Ms. Kurfman's ELA 8 Class Website
 
 ## Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=lebanon.k12.or.us_k42tm3jcrr9qbc1guettap9ccg%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lebanon.k12.or.us_k42tm3jcrr9qbc1guettap9ccg%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Defining a Hero -- Expository Essay Unit
 ### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
