@@ -8,6 +8,8 @@
 
 ### Additional Heroism Resources
 Feel free to quote (choose a sentence or part of a sentence from it, write it in your essay, putting it in quotes) any of the following articles, if they help support your hero definition in your essay. An in-text citation is provided for each, so that you can easily quote with TLC (Transition, lead-in: "Quote" (citation). Since it's a websource, you will not use a page number, but just the author's last name. If we were doing full citations, the last name would lead us to the entry on the works cited page, which would be on its own page after the essay.
+* ["How to be a Hero" on RadioLab](http://www.radiolab.org/story/how-be-hero/) Citation: (RadioLab) RadioLab Quote from Walter F. Rutkowski from the Carnegie Hero Fund definition of hero: "A civilian--meaning no military--who voluntarily leaves a point of safety to risk his own life or her own life to an extraordinary degree to save or attempt to save the life of another human." 
+* ["Carnegie Hero Fund"](http://www.carnegiehero.org/about-the-fund/mission/)
 * ["What False Quotes Tell Us About Ourselves" (& more about defining our heroes) by Jen Lawrence](https://engagethefox.wordpress.com/2014/11/28/what-false-quotes-tell-us-about-ourselves/) Citation: (Lawrence)
 * ["What Makes a Hero?" by Dr. Alex Lickerman](https://www.psychologytoday.com/blog/happiness-in-world/201009/what-makes-hero) Citation: (Lickerman)
 * ["What Makes a Hero?" by Barbara McNally](https://www.huffingtonpost.com/barbara-mcnally/what-makes-a-hero_1_b_11836486.html) Citation: (McNally)
