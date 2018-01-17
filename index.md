@@ -5,6 +5,7 @@
 
 ## Defining a Hero -- Expository Essay Unit
 ### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
+Assignment and how it will be graded, for easy access.
 
 ### [Slideshow Outline of Essay](https://docs.google.com/presentation/d/1mphCdlSOosXmhKnGvhLLZzARD07JKDIx6aa-SlIhUoE/edit?usp=sharing)
 Use this to help with organizing and writing the essay... It includes what was presented in class and what was in the original outline slideshow.
