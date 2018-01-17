@@ -6,6 +6,11 @@
 ## Defining a Hero -- Expository Essay Unit
 ### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
 
+### [Slideshow Outline of Essay](https://docs.google.com/presentation/d/1mphCdlSOosXmhKnGvhLLZzARD07JKDIx6aa-SlIhUoE/edit?usp=sharing)
+Use this to help with organizing and writing the essay... It includes what was presented in class and what was in the original outline slideshow.
+#### [Example Essay: PB&J](https://docs.google.com/document/d/16u5BElsY-4kE9N63CRqhCxbEeUqIUKS8JhtcmiLC8V0/edit?usp=sharing) ctio
+Ms. Kurf's example essay, defining PB&J sandwiches through negation, function, and example with the same essay format that you're using.
+
 ### Additional Heroism Resources
 Feel free to quote (choose a sentence or part of a sentence from it, write it in your essay, putting it in quotes) any of the following articles, if they help support your hero definition in your essay. An in-text citation is provided for each, so that you can easily quote with TLC (Transition, lead-in: "Quote" (citation). Since it's a websource, you will not use a page number, but just the author's last name. If we were doing full citations, the last name would lead us to the entry on the works cited page, which would be on its own page after the essay.
 * ["How to be a Hero" on RadioLab](http://www.radiolab.org/story/how-be-hero/) Citation: (RadioLab) RadioLab Quote from Walter F. Rutkowski from the Carnegie Hero Fund definition of hero: "A civilian--meaning no military--who voluntarily leaves a point of safety to risk his own life or her own life to an extraordinary degree to save or attempt to save the life of another human." Hero stories in the podcast are: 3:30-6:23 Lora K. Shrake, bull story; 6:30-9:40 William David Pennell, fiery car story; 12:14-17:21  Wesley James Autrey, subway track.
