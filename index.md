@@ -7,8 +7,12 @@
 ### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
 Assignment and how it will be graded, for easy access.
 
-### [Slideshow Outline of Essay](https://docs.google.com/presentation/d/1mphCdlSOosXmhKnGvhLLZzARD07JKDIx6aa-SlIhUoE/edit?usp=sharing)
+### Outlines
+#### [Slideshow Outline of Essay](https://docs.google.com/presentation/d/1mphCdlSOosXmhKnGvhLLZzARD07JKDIx6aa-SlIhUoE/edit?usp=sharing)
 Use this to help with organizing and writing the essay... It includes what was presented in class and what was in the original outline slideshow.
+#### [Outline of Essay (Google Doc](https://docs.google.com/document/d/127V0o1qziURLmsW2Kk5eKSNNBzDk9zxH9xXTb5mqd5Q/edit?usp=sharing)
+Alternatively, use this outline to help write the essay. Similar information, different format.
+
 #### [Example Essay: PB&J](https://docs.google.com/document/d/16u5BElsY-4kE9N63CRqhCxbEeUqIUKS8JhtcmiLC8V0/edit?usp=sharing)
 Ms. Kurf's example essay, defining PB&J sandwiches through negation, function, and example with the same essay format that you're using.
 
