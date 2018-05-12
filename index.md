@@ -14,7 +14,6 @@
 ### 2.11 Six Elements of Argumentation
 [Resource Slideshow](https://docs.google.com/presentation/d/1ez1bAYO1sW7FdYHyW1JCxuyG4KRm6GMG31Z3x_OHaMY/edit?usp=sharing)
 
-Coming Later: Logos, Pathos, Ethos; Essay assignment and rubric link; etc. <i>The unit has only just begun!</i>
 
 ## Extraordinary Book Project (Quarterly Assignment)
 [Quarter 3 Assignment](https://docs.google.com/document/d/1VZb2BU9Y8cG22COWeGPIGhjR4rVIk957_4kkhOoNWtQ/edit?usp=sharing)
