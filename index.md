@@ -8,6 +8,30 @@
 
 ## Assignment Resources
 
+## Defining a Hero -- Expository Essay Unit
+### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
+Assignment and how it will be graded, for easy access.
+
+### Outlines
+#### [Slideshow Outline of Essay](https://docs.google.com/presentation/d/1mphCdlSOosXmhKnGvhLLZzARD07JKDIx6aa-SlIhUoE/edit?usp=sharing)
+Use this to help with organizing and writing the essay... It includes what was presented in class and what was in the original outline slideshow.
+#### [Outline of Essay (Google Doc)](https://docs.google.com/document/d/127V0o1qziURLmsW2Kk5eKSNNBzDk9zxH9xXTb5mqd5Q/edit?usp=sharing)
+Alternatively, use this outline to help write the essay. Similar information, different format.
+
+#### [Example Essay: PB&J](https://docs.google.com/document/d/16u5BElsY-4kE9N63CRqhCxbEeUqIUKS8JhtcmiLC8V0/edit?usp=sharing)
+Ms. Kurf's example essay, defining PB&J sandwiches through negation, function, and example with the same essay format that you're using.
+
+### Additional Heroism Resources
+Feel free to quote (choose a sentence or part of a sentence from it, write it in your essay, putting it in quotes) any of the following articles, if they help support your hero definition in your essay. An in-text citation is provided for each, so that you can easily quote with TLC (Transition, lead-in: "Quote" (citation). Since it's a websource, you will not use a page number, but just the author's last name. If we were doing full citations, the last name would lead us to the entry on the works cited page, which would be on its own page after the essay.
+* ["How to be a Hero" on RadioLab](http://www.radiolab.org/story/how-be-hero/) Citation: (<i>RadioLab</i>) RadioLab Quote from Walter F. Rutkowski from the Carnegie Hero Fund definition of hero: "A civilian--meaning no military--who voluntarily leaves a point of safety to risk his own life or her own life to an extraordinary degree to save or attempt to save the life of another human." Hero stories in the podcast are: 3:30-6:23 Lora K. Shrake, bull story; 6:30-9:40 William David Pennell, fiery car story; 12:14-17:21  Wesley James Autrey, subway track.
+* ["Carnegie Hero Fund"](http://www.carnegiehero.org/about-the-fund/mission/)
+* ["What Makes a Hero?" by Dr. Alex Lickerman](https://www.psychologytoday.com/blog/happiness-in-world/201009/what-makes-hero) Citation: (Lickerman) -- In his article, he focuses on one example of a hero, using negation and function along the way.
+* ["What Makes a Hero?" by Barbara McNally](https://www.huffingtonpost.com/barbara-mcnally/what-makes-a-hero_1_b_11836486.html) Citation: (McNally) -- She talks a lot about the hero's journey, and our potential to be heroes as ordinary people.
+* ["What Makes a Hero?" by Philip Zimbardo](https://greatergood.berkeley.edu/article/item/what_makes_a_hero) Citation: (Zimbardo) This piece is a bit more technical, and discusses the research about good and evil and who actually acts heroically.
+* ["Celebrating Mighty Girl Heroes: Ten Women You Might Not Know, But Should" by Jennifer de Beer](https://www.amightygirl.com/blog?p=2515&https=true) Citation: (de Beer) This piece gives examples of historical female heroes.
+* ["Featured Women"](https://www.myhero.com/Women) Here, there are a LOT of people listed as "heroes," many of whom may not fit your definition. I'd recommend it for negation, because you could say someone in it does not fit your definition.
+*["Sikh Students Speak"](http://comparisonproject.wp.drake.edu/digital-stories/digital-stories-from-the-iowa-sikh-association/) You might find you agree or disagree with some of these student voices about identity and heroism, and use them to help you in your own essay.
+
 ## Extraordinary Book Project (Quarterly Assignment)
 [Quarter 3 Assignment](https://docs.google.com/document/d/1VZb2BU9Y8cG22COWeGPIGhjR4rVIk957_4kkhOoNWtQ/edit?usp=sharing)
 
@@ -57,30 +81,6 @@ Make sure your book project does not contain any OBVIOUS spoilers! Subtle ones a
     * Original poem instead of found poem
     * Skit
     * Rap
-
-## Defining a Hero -- Expository Essay Unit
-### [Prompt & Rubric](HeroDefinitionEssayAssignment.pdf)
-Assignment and how it will be graded, for easy access.
-
-### Outlines
-#### [Slideshow Outline of Essay](https://docs.google.com/presentation/d/1mphCdlSOosXmhKnGvhLLZzARD07JKDIx6aa-SlIhUoE/edit?usp=sharing)
-Use this to help with organizing and writing the essay... It includes what was presented in class and what was in the original outline slideshow.
-#### [Outline of Essay (Google Doc)](https://docs.google.com/document/d/127V0o1qziURLmsW2Kk5eKSNNBzDk9zxH9xXTb5mqd5Q/edit?usp=sharing)
-Alternatively, use this outline to help write the essay. Similar information, different format.
-
-#### [Example Essay: PB&J](https://docs.google.com/document/d/16u5BElsY-4kE9N63CRqhCxbEeUqIUKS8JhtcmiLC8V0/edit?usp=sharing)
-Ms. Kurf's example essay, defining PB&J sandwiches through negation, function, and example with the same essay format that you're using.
-
-### Additional Heroism Resources
-Feel free to quote (choose a sentence or part of a sentence from it, write it in your essay, putting it in quotes) any of the following articles, if they help support your hero definition in your essay. An in-text citation is provided for each, so that you can easily quote with TLC (Transition, lead-in: "Quote" (citation). Since it's a websource, you will not use a page number, but just the author's last name. If we were doing full citations, the last name would lead us to the entry on the works cited page, which would be on its own page after the essay.
-* ["How to be a Hero" on RadioLab](http://www.radiolab.org/story/how-be-hero/) Citation: (<i>RadioLab</i>) RadioLab Quote from Walter F. Rutkowski from the Carnegie Hero Fund definition of hero: "A civilian--meaning no military--who voluntarily leaves a point of safety to risk his own life or her own life to an extraordinary degree to save or attempt to save the life of another human." Hero stories in the podcast are: 3:30-6:23 Lora K. Shrake, bull story; 6:30-9:40 William David Pennell, fiery car story; 12:14-17:21  Wesley James Autrey, subway track.
-* ["Carnegie Hero Fund"](http://www.carnegiehero.org/about-the-fund/mission/)
-* ["What Makes a Hero?" by Dr. Alex Lickerman](https://www.psychologytoday.com/blog/happiness-in-world/201009/what-makes-hero) Citation: (Lickerman) -- In his article, he focuses on one example of a hero, using negation and function along the way.
-* ["What Makes a Hero?" by Barbara McNally](https://www.huffingtonpost.com/barbara-mcnally/what-makes-a-hero_1_b_11836486.html) Citation: (McNally) -- She talks a lot about the hero's journey, and our potential to be heroes as ordinary people.
-* ["What Makes a Hero?" by Philip Zimbardo](https://greatergood.berkeley.edu/article/item/what_makes_a_hero) Citation: (Zimbardo) This piece is a bit more technical, and discusses the research about good and evil and who actually acts heroically.
-* ["Celebrating Mighty Girl Heroes: Ten Women You Might Not Know, But Should" by Jennifer de Beer](https://www.amightygirl.com/blog?p=2515&https=true) Citation: (de Beer) This piece gives examples of historical female heroes.
-* ["Featured Women"](https://www.myhero.com/Women) Here, there are a LOT of people listed as "heroes," many of whom may not fit your definition. I'd recommend it for negation, because you could say someone in it does not fit your definition.
-*["Sikh Students Speak"](http://comparisonproject.wp.drake.edu/digital-stories/digital-stories-from-the-iowa-sikh-association/) You might find you agree or disagree with some of these student voices about identity and heroism, and use them to help you in your own essay.
 
 ### One-Pager Exemplars
 [Exemplars](https://drive.google.com/file/d/0BzhudU8Sa5fab3VBS1puanFwX1VhS2FmTjA5ZllxZzdnR21B/view?usp=sharing)
