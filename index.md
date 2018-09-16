@@ -7,13 +7,6 @@
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=lebanon.k12.or.us_k42tm3jcrr9qbc1guettap9ccg%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="600" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Assignment Resources
-### One-Pager Exemplars
-[Exemplars](https://drive.google.com/file/d/0BzhudU8Sa5fab3VBS1puanFwX1VhS2FmTjA5ZllxZzdnR21B/view?usp=sharing)
-
-## Argumentative Essay Unit Resources
-### 2.11 Six Elements of Argumentation
-[Resource Slideshow](https://docs.google.com/presentation/d/1ez1bAYO1sW7FdYHyW1JCxuyG4KRm6GMG31Z3x_OHaMY/edit?usp=sharing)
-
 
 ## Extraordinary Book Project (Quarterly Assignment)
 [Quarter 3 Assignment](https://docs.google.com/document/d/1VZb2BU9Y8cG22COWeGPIGhjR4rVIk957_4kkhOoNWtQ/edit?usp=sharing)
@@ -87,3 +80,11 @@ Feel free to quote (choose a sentence or part of a sentence from it, write it in
 * ["What Makes a Hero?" by Philip Zimbardo](https://greatergood.berkeley.edu/article/item/what_makes_a_hero) Citation: (Zimbardo) This piece is a bit more technical, and discusses the research about good and evil and who actually acts heroically.
 * ["Celebrating Mighty Girl Heroes: Ten Women You Might Not Know, But Should" by Jennifer de Beer](https://www.amightygirl.com/blog?p=2515&https=true) Citation: (de Beer) This piece gives examples of historical female heroes.
 * ["Featured Women"](https://www.myhero.com/Women) Here, there are a LOT of people listed as "heroes," many of whom may not fit your definition. I'd recommend it for negation, because you could say someone in it does not fit your definition.
+*["Sikh Students Speak"](http://comparisonproject.wp.drake.edu/digital-stories/digital-stories-from-the-iowa-sikh-association/) You might find you agree or disagree with some of these student voices about identity and heroism, and use them to help you in your own essay.
+
+### One-Pager Exemplars
+[Exemplars](https://drive.google.com/file/d/0BzhudU8Sa5fab3VBS1puanFwX1VhS2FmTjA5ZllxZzdnR21B/view?usp=sharing)
+
+## Argumentative Essay Unit Resources
+### 2.11 Six Elements of Argumentation
+[Resource Slideshow](https://docs.google.com/presentation/d/1ez1bAYO1sW7FdYHyW1JCxuyG4KRm6GMG31Z3x_OHaMY/edit?usp=sharing)
